@@ -22,10 +22,6 @@ import com.todolistapp.utils.CursorRecyclerAdapter;
 
 import java.text.SimpleDateFormat;
 
-/**
- * Created by hitanshu on 17/7/17.
- */
-
 public class TodoCursorAdapter extends CursorRecyclerAdapter<TodoCursorAdapter.TodoViewHolder> {
 
     private Context context;
