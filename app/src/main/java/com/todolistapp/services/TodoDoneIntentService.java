@@ -12,10 +12,6 @@ import com.todolistapp.database.TodoContract;
 import com.todolistapp.utils.NotificationHelper;
 import com.todolistapp.utils.WidgetHelper;
 
-/**
- * Created by hitanshu on 11/3/18.
- */
-
 public class TodoDoneIntentService extends IntentService {
 
     public TodoDoneIntentService() {
