@@ -13,10 +13,6 @@ import com.todolistapp.services.TodoDoneIntentService;
 import com.todolistapp.utils.Constants;
 import com.todolistapp.utils.NotificationHelper;
 
-/**
- * Created by hitanshu on 6/3/18.
- */
-
 public class AlarmReceiver extends BroadcastReceiver {
 
     @Override
