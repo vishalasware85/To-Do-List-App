@@ -6,10 +6,6 @@ import android.content.Intent;
 
 import com.todolistapp.widget.TodoWidget;
 
-/**
- * Created by hitanshu on 10/3/18.
- */
-
 public class WidgetHelper {
 
     public static void updateWidget(Context context) {
