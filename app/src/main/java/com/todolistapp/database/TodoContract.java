@@ -4,10 +4,6 @@ import android.content.ContentResolver;
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-/**
- * Created by hitanshu on 23/2/18.
- */
-
 public final class TodoContract {
 
     private TodoContract() {
