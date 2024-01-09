@@ -15,10 +15,6 @@ import com.todolistapp.utils.Constants;
 
 import java.text.SimpleDateFormat;
 
-/**
- * Created by hitanshu on 2/3/18.
- */
-
 public class TodoViewsFactory implements RemoteViewsService.RemoteViewsFactory {
 
     private Context context;
