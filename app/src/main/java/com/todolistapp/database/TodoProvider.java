@@ -11,10 +11,6 @@ import android.util.Log;
 
 import androidx.annotation.Nullable;
 
-/**
- * Created by hitanshu on 23/2/18.
- */
-
 public class TodoProvider extends ContentProvider {
 
     private static final UriMatcher sUriMatcher = new UriMatcher(UriMatcher.NO_MATCH);
