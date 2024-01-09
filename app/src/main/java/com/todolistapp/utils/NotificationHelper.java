@@ -14,10 +14,6 @@ import static android.content.Context.ALARM_SERVICE;
 import com.todolistapp.R;
 import com.todolistapp.broadcastreceivers.AlarmReceiver;
 
-/**
- * Created by hitanshu on 6/3/18.
- */
-
 public class NotificationHelper {
 
     private Context context;
