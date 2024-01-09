@@ -4,10 +4,6 @@ import android.database.Cursor;
 
 import java.util.Calendar;
 
-/**
- * Created by hitanshu on 17/7/17.
- */
-
 public class Todo {
 
     private Long id;
